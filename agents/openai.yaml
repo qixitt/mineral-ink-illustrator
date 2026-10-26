@@ -1,0 +1,4 @@
+interface:
+  display_name: "青朱古典插画"
+  short_description: "将人物照片或一句话改绘为鲜亮天宫插画，自配祥云雾气、轻纱披帛与仙鹤"
+  default_prompt: "使用 $mineral-ink-illustrator 重绘这张图片，保留人物主体与大致构图，自由调整动作与轻纱披帛，营造祥云缭绕的天宫感。"
